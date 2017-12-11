@@ -1,0 +1,2 @@
+github "apple/swift-protobuf" "1.0.1"
+github "culumn/grpc-swift" "917cd03a4d1150271c78ef073f65153115a5ca3c"
